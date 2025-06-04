@@ -19,7 +19,7 @@ The **Smart Attendance System** is a Python-based facial recognition project des
 
 | Component       | Technology                  |
 |----------------|------------------------------|
-| Language        | Python 3.x                   |
+| Language        | Python 3.7 or 8              |
 | Face Detection  | OpenCV, face_recognition     |
 | GUI (optional)  | Tkinter / OpenCV window      |
 | Data Storage    | CSV for attendance logs      |
@@ -53,5 +53,6 @@ smart-attendance/
 ---
 
 ## 👨‍💻 Author
+
 Jeril Joseph
 Cybersecurity & AI Enthusiast
